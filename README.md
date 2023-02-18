@@ -23,3 +23,4 @@ Here's an explanation of how to convert a PDF to a DOCX file using the PyPDF2 an
 7. Save the document: Use the save method to save the Word document to the output file path.
 
 That's it! Once you run this code, you should have a new DOCX file with the content of the input PDF file.
+
