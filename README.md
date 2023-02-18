@@ -1,5 +1,4 @@
-# pdf2docx
-Convert Pdf to Docx
+# Convert Pdf to Docx
 
 Here's an explanation of how to convert a PDF to a DOCX file using the PyPDF2 and docx libraries in Python:
 
